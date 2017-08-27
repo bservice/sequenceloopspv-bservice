@@ -14,7 +14,7 @@ public class Main {
 			 else{
 				 num = num * 3 + 1;
 			 }
-			 count++;
+			 count+;
 		 }
 		 System.out.println(i + "-" + count);
 		 count = 1;
